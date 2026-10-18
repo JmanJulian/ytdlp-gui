@@ -21,3 +21,10 @@ Or download the precompiled binary (made with pyinstaller)
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/w7-4.PNG)
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/ubuntu_mate_22.04-1.PNG)
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/rpi4-12.png)
+
+<!-- change from "/img/..." to "./img/..." -->
+<img src="./img/1.png" alt="ytdlp-gui interface preview">
+<img src="./img/2.png" alt="ytdlp-gui options screen">
+<img src="./img/3.png" alt="ytdlp-gui downloading panel">
+<img src="./img/4.png" alt="ytdlp-gui theme styles">
+
