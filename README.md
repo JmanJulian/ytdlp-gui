@@ -1,5 +1,6 @@
 # ytdlp-gui
-Simple CrossPlatform GUI for yt-dlp written in Python3.x using PySimpleGUI(TK port) as graphics toolkit.
+
+Simple CrossPlatform GUI for yt-dlp written in Python 3.x using PySimpleGUI (TK port) as a graphics toolkit. 
 Since Python and yt-dpl are available for Windows, Linux and Mac it should work on all platforms.
 I have tested on Windows and Linux but dont have craple devices to test on.
 
@@ -9,10 +10,6 @@ Or in order to run the python file directly you must have Python3 installed (tes
 2) python-tk or python3-tk (should come preinstalled with python but if not) "sudo apt install python-tk" or "sudo apt install python3-tk" (for debian based linux distros like Ubuntu, Popos, Mint and so on.)
 3) ffmpeg has to be installed in order to use the audio/video format options. You can get it from: https://github.com/yt-dlp/FFmpeg-Builds
 4) yt-dlp The most important part itself get from: https://github.com/yt-dlp/yt-dlp#release-files. Or press Download yt-dlp from the settings tab wich will get the needed binary based on youre OS (the url that it uses do download them are in the ini file(ini is created on first run)).
-
-# ytdlp-gui
-
-Simple CrossPlatform GUI for yt-dlp written in Python 3.x using PySimpleGUI (TK port) as a graphics toolkit. 
 
 ## Requirements & Installation
 To run the Python file directly (tested on 3.9), you need Python 3 and the following dependencies:
