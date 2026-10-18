@@ -10,6 +10,20 @@ Or in order to run the python file directly you must have Python3 installed (tes
 3) ffmpeg has to be installed in order to use the audio/video format options. You can get it from: https://github.com/yt-dlp/FFmpeg-Builds
 4) yt-dlp The most important part itself get from: https://github.com/yt-dlp/yt-dlp#release-files. Or press Download yt-dlp from the settings tab wich will get the needed binary based on youre OS (the url that it uses do download them are in the ini file(ini is created on first run)).
 
+# ytdlp-gui
+
+Simple CrossPlatform GUI for yt-dlp written in Python 3.x using PySimpleGUI (TK port) as a graphics toolkit. 
+
+## Requirements & Installation
+To run the Python file directly (tested on 3.9), you need Python 3 and the following dependencies:
+1. **PySimpleGUI**: `pip install pysimplegui`
+2. **python-tk / python3-tk**: `sudo apt install python-tk` (for Debian/Ubuntu-based distros)
+3. **ffmpeg**: Required for audio/video formats ([FFmpeg-Builds](https://github.com/yt-dlp/FFmpeg-Builds)).
+4. **yt-dlp**: Get the core binary from [yt-dlp releases](https://github.com/yt-dlp/yt-dlp#release-files) or use the "Download yt-dlp" setting inside the app.
+
+## Running & Binaries
+Run via terminal: `python ytdlp-gui.pyw`
+
 Run in command prompt/terminal with command "python ytdlp-gui.pyw" or "python3 ytdlp-gui.pyw"
 Or download the precompiled binary (made with pyinstaller)  
   for Windows: BG and EN: [ytdlp-gui_win64.zip](https://github.com/JmanJulian/ytdlp-gui/files/9033382/ytdlp-gui_win64.zip)
