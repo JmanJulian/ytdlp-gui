@@ -22,8 +22,9 @@ Or download the precompiled binary (made with pyinstaller)
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/ubuntu_mate_22.04-1.PNG)
 ![alt tag](https://github.com/JmanJulian/ytdlp-gui/blob/main/img/Screenshot/rpi4-12.png)
 
-![Interface Preview](./img/1.png)
-![Options Screen](./img/2.png)
-![Downloading Panel](./img/3.png)
-![Theme Styles](./img/4.png)
+![Windows 10 Interface Preview](./img/Screenshot/W10-4.PNG)
+![Windows 7 Interface Preview](./img/Screenshot/w7-4.PNG)
+![Ubuntu Mate Interface Preview](./img/Screenshot/ubuntu_mate_22.04-1.PNG)
+![Raspberry Pi 4 Interface Preview](./img/Screenshot/rpi4-12.png)
+
 
